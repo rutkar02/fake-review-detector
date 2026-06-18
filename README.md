@@ -1,5 +1,7 @@
 # Fake Review Detector
 
+Live Project Link --> https://fake-review-detector2.streamlit.app/
+
 A machine learning web application built using:
 
 - Python
